@@ -4,6 +4,7 @@
        alt="snake" /></a>
 </div>
 
+<h3>Social Media</h3>
 <div align="center">
   <a href="https://discord.gg/minimania" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
