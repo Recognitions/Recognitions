@@ -23,7 +23,7 @@
 <h3>Front End</h3>
 <div align-"left">
   <a>
-    <img src="https://img.shields.io/badge/-JavaScript-gold?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-gold?style=flat-square&logo=javascript&logoColor=white&color=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
