@@ -18,5 +18,17 @@
   <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
   </a>
-  
+</div>
+
+<h3>Front End</h3>
+<div align-"left">
+  <a>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  </a>
 </div>
