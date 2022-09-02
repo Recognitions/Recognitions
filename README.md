@@ -6,7 +6,7 @@
 
 <h3>Social Media</h3>
 <div align="left">
-  <a href="https://discord.gg/minimania" target="_blank">
+  <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
   </a>
   
