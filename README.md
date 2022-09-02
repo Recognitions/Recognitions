@@ -31,4 +31,7 @@
   <a>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   </a>
+  <a>
+    <img src="https://camo.githubusercontent.com/2a90af184556d2002cf1ce613ab48fcd33d071ae7ca63e90bee7ca941988840c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465">
+  </a>
 </div>
