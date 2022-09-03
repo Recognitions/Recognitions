@@ -1,6 +1,6 @@
 <b>Cobrinha de lei :p</b>
 <div align="center">
-  <a href="https://minimania.app">
+  <a>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
