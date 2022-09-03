@@ -1,8 +1,5 @@
-<b>Cobrinha de lei :p</b>
 <div align="center">
-  <a>
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://media.discordapp.net/attachments/967140260838539314/1015721443104915567/d5744dad34472a9dc5aa016b3656be0c83f64deb_hq.gif">
 </div>
 
 <h3>Social Media</h3>
