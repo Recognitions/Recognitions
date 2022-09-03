@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/967140260838539314/1015722219403493526/d5744dad34472a9dc5aa016b3656be0c83f64deb_hq.svg">
+  <img src="https://cdn.discordapp.com/attachments/967140260838539314/1015721443104915567/d5744dad34472a9dc5aa016b3656be0c83f64deb_hq.gif">
 </div>
+
 
 <h3>Social Media</h3>
 <div align="left">
@@ -33,4 +34,14 @@
   <a>
     <img src="https://camo.githubusercontent.com/2a90af184556d2002cf1ce613ab48fcd33d071ae7ca63e90bee7ca941988840c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465">
   </a>
+</div>
+
+
+<div float="left">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
+  <img src="https://cdn.discordapp.com/emojis/960361522733932585.gif" width="50">
 </div>
