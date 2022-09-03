@@ -5,7 +5,7 @@
 
 <h3>Social Media</h3>
 <div align="left">
-  <a href="https://discord.gg/users/709209294440235029">
+  <a href="https://discord.com/users/709209294440235029">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
   </a>
   <a href="https://facebook.com" target="_blank">
