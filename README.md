@@ -1,11 +1,12 @@
-<div align="right">
+<div align="center">
     <img src="https://cdn.discordapp.com/attachments/967140260838539314/1015721443104915567/d5744dad34472a9dc5aa016b3656be0c83f64deb_hq.gif">
 </div>
+<hr>
 <div>
-    <div align="left">
+    <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronimoNeto&layout=compact">
     </div>
-    <div align="left">
+    <div align="center">
         <a href="https://discord.com/users/709209294440235029">
             <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
         </a>
