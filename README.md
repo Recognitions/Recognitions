@@ -4,7 +4,7 @@
 <hr>
 <div>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronimoNeto&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recognitions&layout=compact">
     </div>
     <div align="center">
         <a href="https://discord.com/users/709209294440235029">
