@@ -3,6 +3,6 @@
      <img src="cat.gif">
    
 <div>
- <img src="https://komarev.com/ghpvc/?username=Regocnitions&color=00a4ca&label=Stalkers">
+ <img src="https://komarev.com/ghpvc/?username=Regocnitions&color=000000&label=Eyes">
  </div>
 </div>
